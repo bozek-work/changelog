@@ -2,6 +2,9 @@
 Journal of changes made to the account along with the progress of learning and work.
 
 
+## 06.06.2024 - Arrays
+- Just one task done in "Arrays 101" series. After checking the summary, 8 tasks remained.
+
 ## 05.06.2024 - Arrays
 - I'm almost done with the “Arrays 101” series, 4 tasks left
 
