@@ -1,9 +1,13 @@
 # Changelog
 Journal of changes made to the account along with the progress of learning and work.
 
+## 11.06.2024 - Udemy, LinkedList and Arrays recap
+- I started the course “Data structures and algorithms of Java” by Elshad Karimov on the Udemy
+- Repetition of several tasks from the arrays
+- Starting to learn LinkedList - next point on Explore Card Track
 
 ## 07.06.2024 - Arrays
-- Done all tasks in "Arrays 101" series, except one behind subscription..
+- Done all tasks in "Arrays 101" series, except one behind subscription.
 
 ## 06.06.2024 - Arrays
 - Just one task done in "Arrays 101" series. After checking the summary, 8 tasks remained.
